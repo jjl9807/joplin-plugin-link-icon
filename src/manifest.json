@@ -1,0 +1,16 @@
+{
+	"manifest_version": 1,
+	"id": "com.jjl9807.LinkIcon",
+	"app_min_version": "3.2",
+	"version": "1.0.0",
+	"name": "Link Icon",
+	"description": "Show icon for links in your notes.",
+	"author": "jjl9807",
+	"homepage_url": "https://github.com/jjl9807/joplin-plugin-link-icon",
+	"repository_url": "https://github.com/jjl9807/joplin-plugin-link-icon",
+	"keywords": [],
+	"categories": [],
+	"screenshots": [],
+	"icons": {},
+	"promo_tile": {}
+}
