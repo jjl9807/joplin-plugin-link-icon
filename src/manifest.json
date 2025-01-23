@@ -4,7 +4,7 @@
 	"app_min_version": "3.2",
 	"version": "1.0.0",
 	"name": "Link Icon",
-	"description": "Show icon for links in your notes.",
+	"description": "Display the icons for links in your Joplin notes.",
 	"author": "jjl9807",
 	"homepage_url": "https://github.com/jjl9807/joplin-plugin-link-icon",
 	"repository_url": "https://github.com/jjl9807/joplin-plugin-link-icon",

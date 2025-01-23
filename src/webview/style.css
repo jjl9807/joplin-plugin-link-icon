@@ -1,0 +1,21 @@
+.link-icon-external {
+	display: inline-block;
+	position: relative;
+	top: 0.25em;
+	width: 1.2em;
+	height: 1.2em;
+	margin-right: 0.4em;
+}
+
+.link-icon-fallback {
+	display: inline-block;
+	position: relative;
+	top: 0.375em;
+	width: 1.2em;
+	height: 1.2em;
+	margin-right: 0.34em;
+}
+
+.link-icon-fallback>svg {
+	height: 1.5em;
+}
