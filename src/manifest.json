@@ -8,9 +8,14 @@
 	"author": "jjl9807",
 	"homepage_url": "https://github.com/jjl9807/joplin-plugin-link-icon",
 	"repository_url": "https://github.com/jjl9807/joplin-plugin-link-icon",
-	"keywords": [],
-	"categories": [],
-	"screenshots": [],
+	"keywords": ["link", "icon", "url", "favicon"],
+	"categories": ["appearance"],
+	"screenshots": [
+		{
+			"src": "assets/screenshot.png",
+			"label": "Joplin desktop"
+		}
+	],
 	"icons": {},
 	"promo_tile": {}
 }
